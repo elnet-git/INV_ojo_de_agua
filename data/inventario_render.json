@@ -40,5 +40,11 @@
         "descripcion":"45",
         "stock":75,
         "agencia":"OJO DE AGUA"
+    },
+    {
+        "codigo":"54",
+        "descripcion":"854",
+        "stock":51,
+        "agencia":"OJO DE AGUA"
     }
 ]
