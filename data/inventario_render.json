@@ -34,5 +34,11 @@
         "descripcion":"JGO DE FRENO DEL CON CUNA",
         "stock":11,
         "agencia":"impulsora"
+    },
+    {
+        "codigo":"45",
+        "descripcion":"45",
+        "stock":75,
+        "agencia":"impulsora"
     }
 ]
